@@ -5,5 +5,5 @@ how to use:
 
 py -m venv env
 .\env\Scripts\activate
-py -m pip requirements.txt -r
-py src\main.py
+py -m pip -r requirements.txt
+py src\basic.py
